@@ -1,0 +1,11 @@
+pandas==2.3.3
+numpy==1.26.4
+matplotlib==3.10.8
+seaborn==0.13.2
+statsmodels==0.14.6
+category_encoders==2.9.0
+scipy==1.16.3
+scikit-learn==1.7.2
+boto3==1.37.3
+lightgbm==4.6.0
+xgboost==2.1.4
